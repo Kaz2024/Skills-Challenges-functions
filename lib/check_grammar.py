@@ -1,2 +1,2 @@
-def check_sentence_grammar():
-    pass
+def check_sentence_grammar(text):
+    return text [-1] == "."
